@@ -1,16 +1,16 @@
 class Solution {
     public int maxFreqSum(String s) {
-        HashMap<Character,Integer> map=new HashMap<>();
-        int vo=0,co=0;
+        int[] freq=new int[26];
         for(char c:s.toCharArray()){
-            map.put(c,map.getOrDefault(c,0)+1);
+           freq[c-'a']++;
         }
-        for(char c:map.keySet()){
-            if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u')
-             vo=Math.max(vo,map.get(c));
-            else
-             co=Math.max(co,map.get(c));
+        int c=0,v=0;
+        for(int i=0;i<26;i++){
+            if(i==0||i==4||i==8||i==14||i==20) v=Math.max(v,freq[i]);
+            else{
+                c=Math.max(c,freq[i]);
+            }
         }
-        return vo+co;
+        return c+v;
     }
 }
