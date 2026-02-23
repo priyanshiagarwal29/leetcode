@@ -4,7 +4,7 @@ class Solution {
          int n = s.length();
          int i=0;
          HashSet<String> set=new HashSet<>();
-         while(i+k<n){
+         while(i+k-1<n){
             set.add(s.substring(i,i+k));
             i++;
          }
