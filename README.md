@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshiagarwal29/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/priyanshiagarwal29/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -34,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/priyanshiagarwal29/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,10 +55,12 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshiagarwal29/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshiagarwal29/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
