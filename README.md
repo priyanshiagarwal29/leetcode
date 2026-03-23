@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/priyanshiagarwal29/leetcode/tree/main/0182-duplicate-emails/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/priyanshiagarwal29/leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
