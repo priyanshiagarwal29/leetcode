@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/priyanshiagarwal29/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2906-construct-product-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/priyanshiagarwal29/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
@@ -22,6 +23,7 @@
 | [0064-minimum-path-sum](https://github.com/priyanshiagarwal29/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2906-construct-product-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/priyanshiagarwal29/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
@@ -90,4 +92,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 <!---LeetCode Topics End-->
