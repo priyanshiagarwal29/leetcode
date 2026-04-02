@@ -16,6 +16,7 @@
 | [2751-robot-collisions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/priyanshiagarwal29/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/priyanshiagarwal29/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
@@ -25,6 +26,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2906-construct-product-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/priyanshiagarwal29/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/priyanshiagarwal29/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
@@ -53,6 +55,7 @@
 | [0064-minimum-path-sum](https://github.com/priyanshiagarwal29/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshiagarwal29/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/priyanshiagarwal29/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
