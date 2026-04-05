@@ -1,20 +1,23 @@
 class Solution {
     public boolean checkStrings(String s1, String s2) {
-        int[] prime = {
-            2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41,
-            43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101
-        };
+        int[] even=new int[26];
+        int[] odd=new int[26];
 
-        long mod = 1000000007L;
-        long[] h1 = {1, 1};
-        long[] h2 = {1, 1};
-
-        for (int i = 0; i < s1.length(); i++) {
-            int off = i & 1;
-            h1[off] = (h1[off] * prime[s1.charAt(i) - 'a']) % mod;
-            h2[off] = (h2[off] * prime[s2.charAt(i) - 'a']) % mod;
+        for(int i=0;i<s1.length();i++){
+            if(i%2==0){
+                even[s1.charAt(i)-'a']++;
+                even[s2.charAt(i)-'a']--;
+            }
+            else{
+                odd[s1.charAt(i)-'a']++;
+                odd[s2.charAt(i)-'a']--;
+            }
         }
 
-        return h1[0] == h2[0] && h1[1] == h2[1];
+        for(int i=0;i<26;i++){
+            if(even[i]!=0 || odd[i]!=0) return false;
+        }
+        return true;
+
     }
 }
