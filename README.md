@@ -33,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/priyanshiagarwal29/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshiagarwal29/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -109,6 +110,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/priyanshiagarwal29/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2751-robot-collisions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Recursion
