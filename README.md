@@ -9,6 +9,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0064-minimum-path-sum](https://github.com/priyanshiagarwal29/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshiagarwal29/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/priyanshiagarwal29/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -126,4 +127,8 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshiagarwal29/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/priyanshiagarwal29/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
