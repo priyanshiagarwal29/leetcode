@@ -38,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/priyanshiagarwal29/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/priyanshiagarwal29/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshiagarwal29/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -98,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/priyanshiagarwal29/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/priyanshiagarwal29/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
