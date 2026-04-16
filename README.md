@@ -21,6 +21,7 @@
 | [2906-construct-product-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/priyanshiagarwal29/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/priyanshiagarwal29/leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/priyanshiagarwal29/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -53,6 +54,7 @@
 | [0217-contains-duplicate](https://github.com/priyanshiagarwal29/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/priyanshiagarwal29/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/priyanshiagarwal29/leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Sorting
@@ -136,4 +138,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/priyanshiagarwal29/leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 <!---LeetCode Topics End-->
