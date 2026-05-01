@@ -13,6 +13,7 @@
 | [0064-minimum-path-sum](https://github.com/priyanshiagarwal29/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshiagarwal29/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/priyanshiagarwal29/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0396-rotate-function](https://github.com/priyanshiagarwal29/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/priyanshiagarwal29/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/priyanshiagarwal29/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -78,6 +79,7 @@
 | [0064-minimum-path-sum](https://github.com/priyanshiagarwal29/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshiagarwal29/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/priyanshiagarwal29/leetcode/tree/main/0338-counting-bits/) | Easy |
+| [0396-rotate-function](https://github.com/priyanshiagarwal29/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/priyanshiagarwal29/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Linked List
@@ -134,6 +136,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/priyanshiagarwal29/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/priyanshiagarwal29/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/priyanshiagarwal29/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
