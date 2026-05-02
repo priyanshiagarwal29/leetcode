@@ -81,6 +81,7 @@
 | [0338-counting-bits](https://github.com/priyanshiagarwal29/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/priyanshiagarwal29/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0788-rotated-digits](https://github.com/priyanshiagarwal29/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/priyanshiagarwal29/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/priyanshiagarwal29/leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/priyanshiagarwal29/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/priyanshiagarwal29/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/priyanshiagarwal29/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
