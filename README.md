@@ -58,6 +58,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/priyanshiagarwal29/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/priyanshiagarwal29/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/priyanshiagarwal29/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshiagarwal29/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -71,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/priyanshiagarwal29/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/priyanshiagarwal29/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/priyanshiagarwal29/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/priyanshiagarwal29/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2615-sum-of-distances](https://github.com/priyanshiagarwal29/leetcode/tree/main/2615-sum-of-distances/) | Medium |
@@ -83,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/priyanshiagarwal29/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/priyanshiagarwal29/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/priyanshiagarwal29/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2751-robot-collisions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
