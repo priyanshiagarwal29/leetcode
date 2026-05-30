@@ -122,6 +122,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priyanshiagarwal29/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0191-number-of-1-bits](https://github.com/priyanshiagarwal29/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +211,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/priyanshiagarwal29/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/priyanshiagarwal29/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/priyanshiagarwal29/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Trie
