@@ -45,6 +45,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/priyanshiagarwal29/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/priyanshiagarwal29/leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/priyanshiagarwal29/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -103,6 +104,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priyanshiagarwal29/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2751-robot-collisions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/priyanshiagarwal29/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/priyanshiagarwal29/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priyanshiagarwal29/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +163,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/priyanshiagarwal29/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/priyanshiagarwal29/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2540-minimum-common-value](https://github.com/priyanshiagarwal29/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/priyanshiagarwal29/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -211,6 +215,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/priyanshiagarwal29/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/priyanshiagarwal29/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/priyanshiagarwal29/leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
