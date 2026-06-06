@@ -36,6 +36,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/priyanshiagarwal29/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/priyanshiagarwal29/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/priyanshiagarwal29/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/priyanshiagarwal29/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2751-robot-collisions/) | Hard |
@@ -175,6 +176,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/priyanshiagarwal29/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/priyanshiagarwal29/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/priyanshiagarwal29/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/priyanshiagarwal29/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
