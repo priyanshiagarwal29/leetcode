@@ -19,6 +19,7 @@
 | [0200-number-of-islands](https://github.com/priyanshiagarwal29/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/priyanshiagarwal29/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/priyanshiagarwal29/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/priyanshiagarwal29/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/priyanshiagarwal29/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/priyanshiagarwal29/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -92,6 +93,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/priyanshiagarwal29/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/priyanshiagarwal29/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/priyanshiagarwal29/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/priyanshiagarwal29/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -108,6 +110,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/priyanshiagarwal29/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/priyanshiagarwal29/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/priyanshiagarwal29/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priyanshiagarwal29/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2751-robot-collisions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2751-robot-collisions/) | Hard |
@@ -138,10 +141,12 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priyanshiagarwal29/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0191-number-of-1-bits](https://github.com/priyanshiagarwal29/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priyanshiagarwal29/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +257,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/priyanshiagarwal29/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -287,4 +293,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
