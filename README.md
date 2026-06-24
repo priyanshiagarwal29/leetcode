@@ -11,6 +11,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshiagarwal29/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0045-jump-game-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/priyanshiagarwal29/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/priyanshiagarwal29/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshiagarwal29/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -119,6 +120,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/priyanshiagarwal29/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshiagarwal29/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/priyanshiagarwal29/leetcode/tree/main/0338-counting-bits/) | Easy |
@@ -164,6 +166,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshiagarwal29/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshiagarwal29/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/priyanshiagarwal29/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
