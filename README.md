@@ -32,6 +32,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/priyanshiagarwal29/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/priyanshiagarwal29/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/priyanshiagarwal29/leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/priyanshiagarwal29/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/priyanshiagarwal29/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/priyanshiagarwal29/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/priyanshiagarwal29/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -222,6 +223,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/priyanshiagarwal29/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Math
@@ -231,6 +233,7 @@
 | [0396-rotate-function](https://github.com/priyanshiagarwal29/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/priyanshiagarwal29/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/priyanshiagarwal29/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/priyanshiagarwal29/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/priyanshiagarwal29/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -270,6 +273,7 @@
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/priyanshiagarwal29/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/priyanshiagarwal29/leetcode/tree/main/0338-counting-bits/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/priyanshiagarwal29/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/priyanshiagarwal29/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -352,4 +356,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/priyanshiagarwal29/leetcode/tree/main/0901-online-stock-span/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/priyanshiagarwal29/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/priyanshiagarwal29/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
