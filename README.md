@@ -171,6 +171,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0901-online-stock-span](https://github.com/priyanshiagarwal29/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshiagarwal29/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/priyanshiagarwal29/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -339,4 +340,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/priyanshiagarwal29/leetcode/tree/main/0901-online-stock-span/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/priyanshiagarwal29/leetcode/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/priyanshiagarwal29/leetcode/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
