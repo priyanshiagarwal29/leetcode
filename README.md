@@ -290,12 +290,14 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/priyanshiagarwal29/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyanshiagarwal29/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/priyanshiagarwal29/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -307,6 +309,7 @@
 | [0098-validate-binary-search-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyanshiagarwal29/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -314,6 +317,7 @@
 | [0098-validate-binary-search-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyanshiagarwal29/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
