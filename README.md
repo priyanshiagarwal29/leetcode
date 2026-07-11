@@ -300,6 +300,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/priyanshiagarwal29/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0337-house-robber-iii](https://github.com/priyanshiagarwal29/leetcode/tree/main/0337-house-robber-iii/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/priyanshiagarwal29/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,10 +308,12 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/priyanshiagarwal29/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyanshiagarwal29/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/priyanshiagarwal29/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/priyanshiagarwal29/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/priyanshiagarwal29/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/priyanshiagarwal29/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,4 +390,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/priyanshiagarwal29/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 <!---LeetCode Topics End-->
