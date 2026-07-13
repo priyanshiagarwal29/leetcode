@@ -229,6 +229,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/priyanshiagarwal29/leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyanshiagarwal29/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
