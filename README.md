@@ -26,6 +26,7 @@
 | [0874-walking-robot-simulation](https://github.com/priyanshiagarwal29/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0912-sort-an-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/priyanshiagarwal29/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/priyanshiagarwal29/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/priyanshiagarwal29/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -108,6 +109,7 @@
 | [0242-valid-anagram](https://github.com/priyanshiagarwal29/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/priyanshiagarwal29/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshiagarwal29/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/priyanshiagarwal29/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -127,6 +129,7 @@
 | [0242-valid-anagram](https://github.com/priyanshiagarwal29/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/priyanshiagarwal29/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priyanshiagarwal29/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2751-robot-collisions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2751-robot-collisions/) | Hard |
