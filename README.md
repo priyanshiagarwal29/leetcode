@@ -249,6 +249,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyanshiagarwal29/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/priyanshiagarwal29/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshiagarwal29/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/priyanshiagarwal29/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -401,4 +402,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/priyanshiagarwal29/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshiagarwal29/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
