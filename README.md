@@ -136,6 +136,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priyanshiagarwal29/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2751-robot-collisions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/priyanshiagarwal29/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -249,6 +250,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyanshiagarwal29/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/priyanshiagarwal29/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/priyanshiagarwal29/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshiagarwal29/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
