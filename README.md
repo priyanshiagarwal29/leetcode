@@ -58,6 +58,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/priyanshiagarwal29/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/priyanshiagarwal29/leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyanshiagarwal29/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/priyanshiagarwal29/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -255,6 +256,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/priyanshiagarwal29/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/priyanshiagarwal29/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyanshiagarwal29/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshiagarwal29/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
