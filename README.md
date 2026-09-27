@@ -95,6 +95,7 @@
 | [0678-valid-parenthesis-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshiagarwal29/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshiagarwal29/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshiagarwal29/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/priyanshiagarwal29/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -197,6 +198,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshiagarwal29/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/priyanshiagarwal29/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshiagarwal29/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/priyanshiagarwal29/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Greedy
@@ -418,4 +420,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshiagarwal29/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshiagarwal29/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
