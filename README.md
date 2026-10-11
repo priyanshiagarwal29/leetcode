@@ -52,6 +52,7 @@
 | [2615-sum-of-distances](https://github.com/priyanshiagarwal29/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/priyanshiagarwal29/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2751-robot-collisions/) | Hard |
+| [2778-sum-of-squares-of-special-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2906-construct-product-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
@@ -256,6 +257,7 @@
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/priyanshiagarwal29/leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyanshiagarwal29/leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Math
