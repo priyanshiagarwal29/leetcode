@@ -54,6 +54,7 @@
 | [2751-robot-collisions](https://github.com/priyanshiagarwal29/leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2906-construct-product-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/priyanshiagarwal29/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/priyanshiagarwal29/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -132,6 +133,7 @@
 | [2615-sum-of-distances](https://github.com/priyanshiagarwal29/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/priyanshiagarwal29/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/priyanshiagarwal29/leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -398,6 +400,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -444,4 +447,8 @@
 | [0856-score-of-parentheses](https://github.com/priyanshiagarwal29/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/priyanshiagarwal29/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshiagarwal29/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
