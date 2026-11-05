@@ -29,6 +29,7 @@
 | [0946-validate-stack-sequences](https://github.com/priyanshiagarwal29/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/priyanshiagarwal29/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshiagarwal29/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/priyanshiagarwal29/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/priyanshiagarwal29/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -150,6 +151,7 @@
 | [0347-top-k-frequent-elements](https://github.com/priyanshiagarwal29/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshiagarwal29/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/priyanshiagarwal29/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priyanshiagarwal29/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -238,6 +240,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshiagarwal29/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/priyanshiagarwal29/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/priyanshiagarwal29/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshiagarwal29/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/priyanshiagarwal29/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/priyanshiagarwal29/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priyanshiagarwal29/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -314,6 +317,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshiagarwal29/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/priyanshiagarwal29/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshiagarwal29/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/priyanshiagarwal29/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/priyanshiagarwal29/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/priyanshiagarwal29/leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
