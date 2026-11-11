@@ -233,6 +233,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/priyanshiagarwal29/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshiagarwal29/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/priyanshiagarwal29/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +292,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshiagarwal29/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/priyanshiagarwal29/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/priyanshiagarwal29/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/priyanshiagarwal29/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
